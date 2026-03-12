@@ -1,0 +1,7 @@
+class Tile:
+    tile_list = ["tiao1","tiao2", "tiao3", "tiao4", "tiao5", "tiao6", "tiao7", "tiao8", "tiao9",
+     "tong1", "tong2", "tong3", "tong4", "tong5", "tong6", "tong7", "tong8", "tong9",
+    "wan1", "wan2", "wan3", "wan4", "wan5", "wan6", "wan7", "wan8", "wan9"]
+
+if __name__ == "__main__":
+    print(Tile.tile_list)
